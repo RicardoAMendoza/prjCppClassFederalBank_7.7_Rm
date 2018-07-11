@@ -1,0 +1,9 @@
+1. create repository in GitHub : prjCppFederalBank_5.0_Rm
+2. create file : prjCppFederalBank_5.0_Rm
+3. open git Bash
+3. git init
+5. create README.md inside prjNodeJs_Thot
+6. git add README.md
+7. git commit -m "first commit"
+8. git remote add origin https://github.com/RicardoAMendoza/prjCppFederalBank_5.0_Rm.git
+9. git push -u origin master

@@ -1,0 +1,32 @@
+﻿Build started 8/15/2015 1:17:51 AM.
+     1>Project "D:\TECCART\05 Ete 2015\25 Structure de données\prjCppClassFederalBank_7.7\prjCppClassFederalBank_7.7\prjCppClassFederalBank_7.7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visualStudio\visualStudioSoft\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt clsGuichet.cpp clsListeClients.cpp main.cpp
+         main.cpp
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\fonctions.h(44): warning C4018: '<': signed/unsigned mismatch
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\fonctions.h(54): warning C4018: '<': signed/unsigned mismatch
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\fonctions.h(63): warning C4018: '<': signed/unsigned mismatch
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\fonctions.h(72): warning C4018: '<': signed/unsigned mismatch
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\main.cpp(129): warning C4101: 'NbClientes': unreferenced local variable
+         clsListeClients.cpp
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\clslisteclients.cpp(17): warning C4018: '<': signed/unsigned mismatch
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\clslisteclients.cpp(36): warning C4018: '<': signed/unsigned mismatch
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\clslisteclients.cpp(55): warning C4018: '<': signed/unsigned mismatch
+         clsGuichet.cpp
+         Generating Code...
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\clslisteclients.cpp(33): warning C4715: 'clsListeClients::Ajouter': not all control paths return a value
+     1>d:\teccart\05 ete 2015\25 structure de données\prjcppclassfederalbank_7.7\prjcppclassfederalbank_7.7\clslisteclients.cpp(52): warning C4715: 'clsListeClients::Trouver': not all control paths return a value
+       Link:
+         D:\visualStudio\visualStudioSoft\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\TECCART\05 Ete 2015\25 Structure de données\prjCppClassFederalBank_7.7\Debug\prjCppClassFederalBank_7.7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\TECCART\05 Ete 2015\25 Structure de données\prjCppClassFederalBank_7.7\Debug\prjCppClassFederalBank_7.7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\TECCART\05 Ete 2015\25 Structure de données\prjCppClassFederalBank_7.7\Debug\prjCppClassFederalBank_7.7.lib" /MACHINE:X86 Debug\clsClient.obj
+         Debug\clsCompte.obj
+         Debug\clsDate.obj
+         Debug\clsGuichet.obj
+         Debug\clsListeClients.obj
+         Debug\clsListeComptes.obj
+         Debug\main.obj
+         prjCppClassFederalBank_7.7.vcxproj -> D:\TECCART\05 Ete 2015\25 Structure de données\prjCppClassFederalBank_7.7\Debug\prjCppClassFederalBank_7.7.exe
+     1>Done Building Project "D:\TECCART\05 Ete 2015\25 Structure de données\prjCppClassFederalBank_7.7\prjCppClassFederalBank_7.7\prjCppClassFederalBank_7.7.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.80
